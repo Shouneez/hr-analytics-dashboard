@@ -22,7 +22,17 @@ hiring patterns, and workforce performance.
 
 # Dashboard Preview
 
-![HR Dashboard](images/dashboard.png)
+# Overview
+![Overview Dashboard](images/overview.png)
+
+# Demographics
+![Demographics Dashboard](images/demographics.png)
+
+# Performance Tracker
+![Performance Tracker](images/performance-tracker.png)
+
+# Attrition
+![Attrition Dashboard](images/attrition.png)
 
 # Files Included
 - Power BI dashboard (.pbix)
