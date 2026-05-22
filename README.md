@@ -32,7 +32,7 @@ hiring patterns, and workforce performance.
 ![Performance Tracker](images/performance tracker.png)
 
 # Attrition
-![Attrition Dashboard](images/Attrition.png)
+![Attrition Dashboard](images/Attitrion.png)
 
 # Files Included
 - Power BI dashboard (.pbix)
