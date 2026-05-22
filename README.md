@@ -29,7 +29,7 @@ hiring patterns, and workforce performance.
 ![Demographics Dashboard](images/demographics.png)
 
 # Performance Tracker
-![Performance Tracker](images/performance tracker.png)
+![Performance Tracker](images/performance_tracker.png)
 
 # Attrition
 ![Attrition Dashboard](images/Attitrion.png)
